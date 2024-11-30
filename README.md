@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am Aleksandra Kosheleva.
 I'm a data analyst.
+📫 How to reach me: ...
 <!--
 **Aleksandra-Kosheleva/Aleksandra-Kosheleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
